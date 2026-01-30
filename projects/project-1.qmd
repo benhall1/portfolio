@@ -1,63 +1,89 @@
 ---
-title: "Readzy - Speed Reading Application"
+title: "Readzy"
+subtitle: "Speed Reading Application"
+pagetitle: "Readzy — Speed Reading App by Ben Hall"
 date: "2025-01-29"
-categories: [GitHub, Vercel, Claude Code]
+categories: [Web App, Claude Code, Vercel]
 ---
 
-## Overview
+<p class="lead">
+A speed reading application designed to help users consume written content faster while maintaining comprehension. Built with AI-assisted development.
+</p>
 
-Readzy is a speed reading application designed to help users consume written content faster while maintaining comprehension. Built using Claude Code and deployed on Vercel, this project demonstrates how AI-assisted development can accelerate the creation of useful tools.
-
-The primary purpose of this app is to:
-
-- Help users read faster by presenting text in optimized chunks
-- Improve reading comprehension through focused attention techniques
-- Save time for students, professionals, and anyone who needs to process large amounts of text
-
-## Live Product Demo
-
-<div class="d-flex justify-content-center gap-3 my-4">
-  <!-- Open App button -->
-  <a class="btn btn-primary d-inline-flex align-items-center"
-     href="https://aiproject-neon.vercel.app/"
-     target="_blank" rel="noopener"
-     aria-label="Open live app">
-    <i class="fa-solid fa-window-restore me-2" aria-hidden="true"></i>
-    Open App in New Tab
-  </a>
-
-  <!-- GitHub Source button -->
-  <a class="btn btn-outline-dark d-inline-flex align-items-center"
-     href="https://github.com/benhall1/speedreader"
-     target="_blank" rel="noopener"
-     aria-label="Open GitHub source">
-    <i class="fa-brands fa-github me-2" aria-hidden="true"></i>
-    View source on GitHub
-  </a>
+<div style="display: flex; gap: 0.75rem; flex-wrap: wrap; margin-bottom: 2rem;">
+<a class="btn btn-primary" href="https://aiproject-neon.vercel.app/" target="_blank" rel="noopener">
+  <i class="fa-solid fa-arrow-up-right-from-square" style="margin-right: 0.5rem;"></i>
+  Try Readzy Live
+</a>
+<a class="btn btn-outline-dark" href="https://github.com/benhall1/speedreader" target="_blank" rel="noopener">
+  <i class="fa-brands fa-github" style="margin-right: 0.5rem;"></i>
+  View Source
+</a>
 </div>
 
-<iframe src="https://aiproject-neon.vercel.app/"
-        style="width:100%; height:900px; border:none;"
-        allowfullscreen>
-</iframe>
+---
 
-## Technical Details
+<span class="section-label">The Problem</span>
 
-**Framework/Stack:** Web application built with modern JavaScript
+## Why I Built This
 
-**Deployment:** Vercel for continuous deployment from GitHub
+As a college student, I constantly face the challenge of having too much to read and not enough time. Textbooks, research papers, articles, and course materials pile up quickly. Traditional reading methods are inefficient—most people read at roughly the same speed they did in elementary school.
 
-**Tools Used:**
+<span class="section-label">The Solution</span>
 
-- Claude Code for AI-assisted development
-- GitHub for version control
-- Vercel for hosting and deployment
-
-## The Problem
-
-As a college student, I constantly face the challenge of having too much to read and not enough time. Textbooks, research papers, articles, and course materials pile up quickly. Traditional reading methods are inefficient, and most people read at roughly the same speed they did in elementary school.
-
-## The Solution
+## How Readzy Works
 
 Readzy addresses this by using proven speed reading techniques in a digital format. By controlling how text is presented to the user, the app helps readers break free from subvocalization and other habits that slow down reading.
 
+**Key Features:**
+
+- Presents text in optimized chunks for faster processing
+- Adjustable reading speed to match your comfort level
+- Clean, distraction-free interface
+- Works with any text you paste in
+
+---
+
+<span class="section-label">Live Demo</span>
+
+## Try It Yourself
+
+<iframe src="https://aiproject-neon.vercel.app/"
+        style="width:100%; height:600px; border:none; margin: 1.5rem 0;"
+        allowfullscreen
+        loading="lazy">
+</iframe>
+
+---
+
+<span class="section-label">Technical Details</span>
+
+## How It's Built
+
+| Aspect | Details |
+|--------|---------|
+| **Stack** | Modern JavaScript web application |
+| **Deployment** | Vercel (continuous deployment from GitHub) |
+| **Development** | AI-assisted with Claude Code |
+| **Source Control** | GitHub |
+
+---
+
+<span class="section-label">Learnings</span>
+
+## What I Learned
+
+Building Readzy taught me how to rapidly prototype and ship a working product using AI-assisted development. The entire project—from idea to deployed application—was completed in a fraction of the time traditional development would have taken.
+
+This experience reinforced my belief that the tools we use to build matter almost as much as what we build. Claude Code allowed me to focus on the product and user experience rather than getting stuck on implementation details.
+
+---
+
+<div style="margin-top: 2rem; display: flex; gap: 1.5rem; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+<a href="../problems.qmd" style="display: inline-flex; align-items: center; gap: 0.5rem;">
+  <i class="fa-solid fa-arrow-left"></i> Back to Problems
+</a>
+<a href="../about.qmd" class="btn btn-primary">
+  About Me <i class="fa-solid fa-arrow-right" style="margin-left: 0.5rem;"></i>
+</a>
+</div>

@@ -1,19 +1,24 @@
 ---
-title: "About Me"
+title: "About"
+pagetitle: "About — Ben Hall"
 ---
 
-::: {.hero-banner .text-center}
+::: {.hero-banner}
 
-<img src="images/profile.jpg" alt="Ben Hall" class="rounded-circle mb-3" width="160">
+<img src="images/profile.jpg" alt="Ben Hall" class="rounded-circle" width="180">
 
-<h1>Ben Hall</h1>
+# Ben Hall
 
-<a href="https://www.linkedin.com/in/ben-hall-55a3a0253/" class="btn btn-outline-primary btn-sm" target="_blank">
+<h2>Product Builder · Entrepreneur · BYU '25</h2>
+
+<div style="margin-top: 2rem;">
+<a href="https://www.linkedin.com/in/ben-hall-55a3a0253/" class="btn btn-outline-primary" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/benhall1" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/benhall1" class="btn btn-outline-primary" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
+</div>
 
 :::
 
@@ -21,31 +26,91 @@ title: "About Me"
 
 I'm a senior at Brigham Young University studying Entrepreneurial Management. I'm passionate about building products that solve real problems and make people's lives more efficient. My recent project, Readzy, reflects my belief that small improvements in how we learn can have massive compound effects over time.
 
-### Education
+<div class="stats-row">
+<div class="stat-item">
+<div class="stat-number">2025</div>
+<div class="stat-label">Graduating</div>
+</div>
+<div class="stat-item">
+<div class="stat-number">1</div>
+<div class="stat-label">Shipped Product</div>
+</div>
+<div class="stat-item">
+<div class="stat-number">5</div>
+<div class="stat-label">Problems Exploring</div>
+</div>
+</div>
 
-- **B.S. Entrepreneurial Management**, Brigham Young University (Expected 2025)
-- **Relevant Coursework**: Product Management, Business Strategy, Digital Product Development
-- **Focus Areas**: Product development, startup strategy, technology entrepreneurship
+## Education
 
-### Skills & Interests
+**B.S. Entrepreneurial Management**
+Brigham Young University · Expected 2025
 
-**Technical Skills**
+- **Focus Areas:** Product development, startup strategy, technology entrepreneurship
+- **Relevant Coursework:** Product Management, Business Strategy, Digital Product Development
+
+## Skills
+
+### Technical
 
 - AI-assisted development with Claude Code
 - Web development and deployment (Vercel, GitHub Pages)
 - Product prototyping and MVP development
 
-**Product Skills**
+### Product
 
 - Problem discovery and validation
 - User research and feedback analysis
 - Agile development practices
 
-**Interests**
+## Interests
 
 Outside of school, I'm interested in reading, personal productivity, and exploring new technologies. I believe in continuous learning and finding ways to do more with less.
 
-### What's Next
+---
 
-I'm looking for opportunities where I can apply my entrepreneurial mindset and product development skills. I'm particularly interested in roles that let me work at the intersection of technology and business, whether that's at a startup, in product management, or building something of my own.
+## Resume
 
+<div class="resume-section">
+
+### Download My Resume
+
+<p>Get the full picture of my experience, education, and skills.</p>
+
+<div class="resume-preview">
+<i class="fa-solid fa-file-pdf"></i>
+<div class="resume-preview-text">
+<strong>Ben_Hall_Resume.pdf</strong>
+<span>PDF Document</span>
+</div>
+</div>
+
+<a href="docs/Ben_Hall_Resume.pdf" class="btn btn-primary" target="_blank" download>
+<i class="fa-solid fa-download" style="margin-right: 0.5rem;"></i>
+Download Resume
+</a>
+<a href="docs/Ben_Hall_Resume.pdf" class="btn btn-outline-dark" target="_blank" style="margin-left: 0.5rem;">
+<i class="fa-solid fa-eye" style="margin-right: 0.5rem;"></i>
+View Online
+</a>
+
+</div>
+
+---
+
+## What's Next
+
+I'm looking for opportunities where I can apply my entrepreneurial mindset and product development skills. I'm particularly interested in roles that let me work at the intersection of technology and business—whether that's at a startup, in product management, or building something of my own.
+
+<div class="cta-section">
+
+### Let's Connect
+
+I'm always interested in meeting people who are building interesting things or thinking about hard problems.
+
+<a href="https://www.linkedin.com/in/ben-hall-55a3a0253/" class="btn" target="_blank">
+<i class="fab fa-linkedin" style="margin-right: 0.5rem;"></i>
+Connect on LinkedIn
+</a>
+
+</div>

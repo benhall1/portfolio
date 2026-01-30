@@ -1,28 +1,78 @@
 ---
-title: "Welcome to My Product Management Portfolio"
+title: "Ben Hall"
+pagetitle: "Ben Hall — Product Builder & Entrepreneur"
 ---
 
-::: {.hero-banner .text-center}
+::: {.hero-banner}
 
-<img src="images/profile.jpg" alt="Ben Hall" class="rounded-circle mb-3" width="160">
+<img src="images/profile.jpg" alt="Ben Hall" class="rounded-circle" width="180">
 
-<h1>Ben Hall</h1>
+# Ben Hall
 
-<a href="https://www.linkedin.com/in/ben-hall-55a3a0253/" class="btn btn-outline-primary btn-sm" target="_blank">
+<h2>Product Builder · Entrepreneur · BYU '25</h2>
+
+<div style="margin-top: 2rem;">
+<a href="https://www.linkedin.com/in/ben-hall-55a3a0253/" class="btn btn-outline-primary" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/benhall1" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/benhall1" class="btn btn-outline-primary" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
+<a href="about.qmd#resume" class="btn btn-outline-primary">
+  <i class="fa-solid fa-file-lines"></i> Resume
+</a>
+</div>
 
 :::
 
-## Featured Projects
+<span class="section-label">Featured Project</span>
+
+## Readzy — Speed Reading App
 
 ::: {.g-col-12 .g-col-md-6 .card}
 
-### [Readzy](projects/project-1.qmd)
-A speed reading application that saves you hours by accelerating your reading and comprehension.
+A web application that helps users read 2–3× faster while maintaining comprehension. Built with AI-assisted development using Claude Code. Live on Vercel.
+
+<div style="margin-top: 1.5rem; display: flex; gap: 0.75rem; flex-wrap: wrap;">
+<a href="https://aiproject-neon.vercel.app/" class="btn btn-primary btn-sm" target="_blank">
+  <i class="fa-solid fa-arrow-up-right-from-square"></i> Try It Live
+</a>
+<a href="projects/project-1.qmd" class="btn btn-outline-dark btn-sm">
+  View Details →
+</a>
+</div>
 
 :::
 
+---
+
+<span class="section-label">What I'm Working On</span>
+
+## Problem-First Product Thinking
+
+I believe great products start with understanding problems worth solving. I'm currently exploring challenges around:
+
+- **Reading efficiency** — How can we help people learn faster?
+- **Idea validation** — How can entrepreneurs test ideas before building?
+- **Priority management** — How do we focus without burning out?
+
+<a href="problems.qmd" style="display: inline-flex; align-items: center; gap: 0.5rem; font-weight: 600;">
+  See all 5 problems I'm exploring <i class="fa-solid fa-arrow-right"></i>
+</a>
+
+---
+
+<span class="section-label">About Me</span>
+
+## Entrepreneurial Management @ BYU
+
+I'm a senior studying Entrepreneurial Management at Brigham Young University. I'm passionate about building products that solve real problems and exploring the intersection of technology and business.
+
+<div style="display: flex; gap: 0.75rem; flex-wrap: wrap; margin-top: 1.5rem;">
+<a href="about.qmd" class="btn btn-primary">
+  Learn More About Me
+</a>
+<a href="about.qmd#resume" class="btn btn-outline-dark">
+  <i class="fa-solid fa-download" style="margin-right: 0.5rem;"></i> Download Resume
+</a>
+</div>
