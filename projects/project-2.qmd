@@ -19,6 +19,10 @@ A SaaS tool that monitors Meta (Facebook) ad creative fatigue in real time, scor
   <i class="fa-brands fa-github" style="margin-right: 0.5rem;"></i>
   View Source
 </a>
+<a class="btn btn-outline-dark" href="../docs/Ad_Fatigue_Monitor_PRD.pdf" target="_blank" rel="noopener">
+  <i class="fa-solid fa-file-pdf" style="margin-right: 0.5rem;"></i>
+  Product Requirements Doc
+</a>
 </div>
 
 ---
