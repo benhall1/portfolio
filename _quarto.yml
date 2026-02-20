@@ -16,10 +16,10 @@ website:
         menu:
           - href: projects/project-1.qmd
             text: Readzy
+          - href: projects/project-2.qmd
+            text: Ad Fatigue Monitor
       - href: problems.qmd
         text: Problems I'm Exploring
-          #- href: projects/project-2.qmd
-          #  text: Business Case Presentation
           #- href: projects/project-3.qmd
           #  text: Project 3
           #- href: projects/project-4.qmd

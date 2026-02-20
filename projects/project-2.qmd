@@ -1,179 +1,120 @@
 ---
-title: "Business Case Presentation"
-description: "Pitch deck and strategic business case for new product development"
-date: "2024-10-01"
-image: ../images/project2-preview.jpg
-categories: [Business Strategy, Pitch Deck, Product Development]
+title: "Ad Fatigue Monitor"
+subtitle: "Meta Ad Performance Tracker"
+pagetitle: "Ad Fatigue Monitor — Meta Ad Tracker by Ben Hall"
+date: "2026-02-19"
+categories: [SaaS, Next.js, Supabase, Claude Code]
 ---
 
-## Assignment Overview
+<p class="lead">
+A SaaS tool that monitors Meta (Facebook) ad creative fatigue in real time, scoring each ad's health and alerting marketers before wasted spend accumulates.
+</p>
 
-This project focused on developing a comprehensive business case and pitch presentation for a new product opportunity. The assignment required identifying a market need, analyzing the opportunity, and presenting a compelling case for why the product should be built and funded.
-
-## Executive Summary
-
-**Product Concept**: [Brief description of your proposed product/service]
-
-**Market Opportunity**: [Size and growth potential of target market]
-
-**Investment Required**: [Estimated funding needed]
-
-**Expected Return**: [Projected revenue and profitability timeline]
-
-**Recommendation**: [Clear go/no-go recommendation with supporting rationale]
-
-## Problem Statement
-
-### Market Problem
-- **Issue Identification**: What specific problem does your product solve?
-- **Target Audience**: Who experiences this problem most acutely?
-- **Current Solutions**: How are people solving this problem today?
-- **Gap Analysis**: What's missing from existing solutions?
-
-### Quantifying the Problem
-- **Market Size**: How many people/organizations face this issue?
-- **Economic Impact**: What does this problem cost users currently?
-- **Urgency**: Why is now the right time to solve this problem?
-- **Evidence**: What data supports the existence and scale of this problem?
-
-## Market Analysis
-
-### Industry Overview
-- **Market Size**: Total Addressable Market (TAM), Serviceable Addressable Market (SAM)
-- **Growth Trends**: Historical growth rates and future projections
-- **Key Drivers**: What factors are driving market growth?
-- **Market Maturity**: Where is this market in its lifecycle?
-
-### Competitive Landscape
-- **Direct Competitors**: Who offers similar solutions?
-- **Indirect Competitors**: What alternative approaches exist?
-- **Competitive Advantages**: How will you differentiate?
-- **Market Positioning**: Where will you fit in the competitive landscape?
-
-### Customer Analysis
-- **Target Segments**: Primary and secondary customer groups
-- **User Personas**: Detailed profiles of ideal customers
-- **Buying Behavior**: How do customers make purchase decisions?
-- **Price Sensitivity**: What are customers willing to pay?
-
-## Solution Overview
-
-### Product Vision
-- **Core Value Proposition**: What unique value do you provide?
-- **Key Features**: What are the essential product capabilities?
-- **User Experience**: How will customers interact with your product?
-- **Differentiation**: What makes your solution superior?
-
-### Product Strategy
-- **Development Approach**: Build vs. buy vs. partner decisions
-- **Technology Stack**: What technical foundation will you use?
-- **Scalability**: How will the product grow with demand?
-- **Innovation**: What makes this solution innovative?
-
-## Business Model
-
-### Revenue Model
-- **Pricing Strategy**: How will you price your product?
-- **Revenue Streams**: What are your sources of income?
-- **Customer Acquisition**: How will you attract customers?
-- **Unit Economics**: What are your cost and revenue per customer?
-
-### Financial Projections
-- **Revenue Forecast**: 3-5 year revenue projections
-- **Cost Structure**: Development, operational, and marketing costs
-- **Profitability Timeline**: When will you reach break-even?
-- **Investment Requirements**: Funding needed for different milestones
-
-### Go-to-Market Strategy
-- **Launch Strategy**: How will you introduce the product?
-- **Marketing Channels**: How will you reach customers?
-- **Sales Strategy**: Direct, partner, or hybrid approach?
-- **Customer Success**: How will you ensure customer satisfaction?
-
-## Implementation Plan
-
-### Development Roadmap
-- **Phase 1**: MVP development and initial testing
-- **Phase 2**: Full product launch and market entry  
-- **Phase 3**: Scale and expansion opportunities
-- **Milestones**: Key deliverables and timeline
-
-### Resource Requirements
-- **Team Structure**: What roles and skills are needed?
-- **Technology Infrastructure**: What systems and tools are required?
-- **Capital Requirements**: Funding needs by phase
-- **Strategic Partnerships**: What alliances will accelerate success?
-
-### Risk Analysis
-- **Market Risks**: What could change in the market?
-- **Technical Risks**: What development challenges might arise?
-- **Competitive Risks**: How might competitors respond?
-- **Mitigation Strategies**: How will you address each risk?
-
-## Success Metrics
-
-### Key Performance Indicators
-- **Customer Metrics**: Acquisition, retention, satisfaction
-- **Business Metrics**: Revenue, profitability, market share
-- **Product Metrics**: Usage, engagement, feature adoption
-- **Operational Metrics**: Efficiency, quality, scalability
-
-### Success Criteria
-- **Short-term (6 months)**: [Specific measurable goals]
-- **Medium-term (1-2 years)**: [Growth and market position targets]
-- **Long-term (3-5 years)**: [Vision achievement and expansion goals]
-
-## Investment Recommendation
-
-### Case for Investment
-1. **Market Opportunity**: Large, growing market with clear need
-2. **Competitive Advantage**: Defensible differentiation and positioning
-3. **Team Capability**: Right skills and experience to execute
-4. **Financial Returns**: Attractive risk-adjusted return potential
-5. **Strategic Fit**: Aligns with organizational goals and capabilities
-
-### Expected Outcomes
-- **Revenue Impact**: [Projected revenue contribution]
-- **Market Position**: [Expected market share and positioning]
-- **Strategic Value**: [Broader organizational benefits]
-- **Growth Platform**: [Future expansion opportunities]
-
-## Next Steps
-
-### Immediate Actions (30 days)
-- [ ] Secure initial funding/approval
-- [ ] Finalize team structure and hiring
-- [ ] Complete technical feasibility analysis
-- [ ] Develop detailed project plan
-
-### Short-term Milestones (90 days)
-- [ ] Complete market validation research
-- [ ] Build MVP and conduct user testing
-- [ ] Establish key partnerships
-- [ ] Refine go-to-market strategy
-
-### Long-term Goals (1 year)
-- [ ] Launch product to target market
-- [ ] Achieve customer acquisition targets
-- [ ] Demonstrate product-market fit
-- [ ] Plan expansion opportunities
-
-## Appendices
-
-### Supporting Data
-- Market research reports and analysis
-- Customer interview findings
-- Competitive analysis details
-- Financial model assumptions
-
-### Presentation Materials
-- **Slide Deck**: [Link to presentation slides]
-- **Executive Summary**: [One-page business case summary]  
-- **Financial Model**: [Detailed financial projections]
-- **Supporting Research**: [Market data and analysis]
+<div style="display: flex; gap: 0.75rem; flex-wrap: wrap; margin-bottom: 2rem;">
+<a class="btn btn-primary" href="https://meta-ad-tracker.vercel.app/" target="_blank" rel="noopener">
+  <i class="fa-solid fa-arrow-up-right-from-square" style="margin-right: 0.5rem;"></i>
+  Try Live Demo
+</a>
+<a class="btn btn-outline-dark" href="https://github.com/benhall1/meta-ad-tracker" target="_blank" rel="noopener">
+  <i class="fa-brands fa-github" style="margin-right: 0.5rem;"></i>
+  View Source
+</a>
+</div>
 
 ---
 
-**Skills Demonstrated:** Business Strategy, Market Analysis, Financial Modeling, Presentation Design, Strategic Planning
+<span class="section-label">The Problem</span>
 
-**Tools Used:** PowerPoint/Keynote, Excel/Google Sheets, Market Research Databases, Survey Tools
+## Why I Built This
+
+Digital advertisers waste thousands of dollars every month on fatigued ads — creatives that audiences have seen too many times, leading to declining click-through rates, rising costs per click, and plummeting return on ad spend. Most marketers only notice the problem after the damage is done, manually checking dashboards when it's already too late.
+
+There's no simple, automated way for small to mid-size advertisers to get early warning signals that their ads are burning out.
+
+<span class="section-label">The Solution</span>
+
+## How It Works
+
+Ad Fatigue Monitor connects to Meta's ad platform and continuously tracks four key performance signals for every active ad:
+
+- **ROAS Decline** (40% weight) — Are you getting less revenue per dollar spent?
+- **CTR Drop** (25% weight) — Are fewer people clicking your ads?
+- **CPC Increase** (20% weight) — Is each click costing you more?
+- **Frequency Saturation** (15% weight) — Has your audience seen the ad too many times?
+
+Each ad gets a composite fatigue score (0-100) and a health status:
+
+| Status | Score | Meaning |
+|--------|-------|---------|
+| **Healthy** | 0-30 | Performing well, no action needed |
+| **Watch** | 31-60 | Early signs of fatigue, refresh soon |
+| **Critical** | 61+ | Replace creative immediately |
+
+---
+
+<span class="section-label">Key Features</span>
+
+## What It Does
+
+**Dashboard** — At-a-glance view of all ads with health badges, sortable by status so critical ads surface first.
+
+**Ad Detail Pages** — 7-day trend charts for every metric (spend, CTR, CPC, ROAS, frequency), plus a breakdown of exactly which signals are driving the fatigue score.
+
+**Automated Scoring** — A daily cron job syncs the latest data from Meta, recalculates fatigue scores, and sends email alerts when ads cross into Watch or Critical status.
+
+**Demo Mode** — One-click login with pre-loaded sample data (9 ads across 3 campaigns) so anyone can explore the full product without connecting a real Meta account.
+
+---
+
+<span class="section-label">Technical Details</span>
+
+## How It's Built
+
+| Aspect | Details |
+|--------|---------|
+| **Frontend** | Next.js 16 (App Router, Server Components), React 19, Tailwind CSS 4 |
+| **UI Components** | Shadcn/UI (New York style), Recharts for data visualization |
+| **Database** | PostgreSQL on Supabase, managed with Prisma 7 ORM |
+| **Auth** | NextAuth 5 (Auth.js) with JWT sessions |
+| **API Integration** | Meta Graph API v21.0 for ad data sync |
+| **Security** | AES-256-GCM encryption for stored API tokens |
+| **Deployment** | Vercel with daily cron job scheduling |
+| **Development** | AI-assisted with Claude Code |
+
+---
+
+<span class="section-label">Product Thinking</span>
+
+## Design Decisions
+
+**Weighted scoring over simple thresholds** — A single metric spike doesn't mean an ad is fatigued. The weighted algorithm considers multiple signals together, reducing false positives.
+
+**72-hour grace period** — New ads need time to stabilize. The system skips scoring for ads less than 3 days old to avoid premature alerts.
+
+**Hierarchical data sync** — The sync process mirrors Meta's ad structure (Account > Campaign > Ad Set > Ad) and upserts everything, so it's idempotent and safe to retry.
+
+**Demo-first approach** — Rather than requiring Meta OAuth setup just to evaluate the product, the demo mode lets stakeholders experience the full product immediately.
+
+---
+
+<span class="section-label">Learnings</span>
+
+## What I Learned
+
+Building this project deepened my understanding of how performance marketing works at a data level — not just vanity metrics, but the interplay between frequency, audience fatigue, and diminishing returns. I also gained hands-on experience with:
+
+- Designing scoring algorithms that balance multiple weighted signals
+- Working with third-party APIs (Meta Graph API) and handling pagination, rate limits, and token management
+- Encrypting sensitive credentials at rest (AES-256-GCM)
+- Building full-stack SaaS with modern tools (Next.js 16, Prisma 7, Supabase)
+
+---
+
+<div style="margin-top: 2rem; display: flex; gap: 1.5rem; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+<a href="../problems.qmd" style="display: inline-flex; align-items: center; gap: 0.5rem;">
+  <i class="fa-solid fa-arrow-left"></i> Back to Problems
+</a>
+<a href="../about.qmd" class="btn btn-primary">
+  About Me <i class="fa-solid fa-arrow-right" style="margin-left: 0.5rem;"></i>
+</a>
+</div>
