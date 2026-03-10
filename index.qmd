@@ -9,7 +9,8 @@ pagetitle: "Ben Hall — Product Builder & Entrepreneur"
 
 # Ben Hall
 
-<h2>Product Builder · Entrepreneur · BYU '25</h2>
+<h2>Entrepreneur · Shopify Specialist · Meta Advertising · AI Product Builder</h2>
+<p class="hero-subtitle">Crocker Innovation Fellow · BYU Marriott School of Business '26</p>
 
 <div style="margin-top: 2rem;">
 <a href="https://www.linkedin.com/in/ben-hall-55a3a0253/" class="btn btn-outline-primary" target="_blank">
@@ -25,24 +26,75 @@ pagetitle: "Ben Hall — Product Builder & Entrepreneur"
 
 :::
 
-<span class="section-label">Featured Project</span>
+<span class="section-label">My Work</span>
 
-## Readzy — Speed Reading App
+## Websites I've Built
 
-::: {.g-col-12 .g-col-md-6 .card}
-
-A web application that helps users read 2–3× faster while maintaining comprehension. Built with AI-assisted development using Claude Code. Live on Vercel.
-
-<div style="margin-top: 1.5rem; display: flex; gap: 0.75rem; flex-wrap: wrap;">
-<a href="https://aiproject-neon.vercel.app/" class="btn btn-primary btn-sm" target="_blank">
-  <i class="fa-solid fa-arrow-up-right-from-square"></i> Try It Live
+<div class="site-showcase">
+<a href="https://saltydudeco.com" class="site-card" target="_blank" rel="noopener">
+<div class="site-preview">
+<img src="images/saltydude-preview.jpg" alt="Salty Dude website preview">
+</div>
+<div class="site-card-content">
+<h3>Salty Dude</h3>
+<p>E-commerce brand and online store.</p>
+<span class="btn btn-primary btn-sm">
+  <i class="fa-solid fa-arrow-up-right-from-square"></i> Visit Site
+</span>
+</div>
 </a>
-<a href="projects/project-1.qmd" class="btn btn-outline-dark btn-sm">
-  View Details →
+<a href="https://tummbl.com" class="site-card" target="_blank" rel="noopener">
+<div class="site-preview">
+<img src="images/tummbl-preview.jpg" alt="Tummbl website preview">
+</div>
+<div class="site-card-content">
+<h3>Tummbl</h3>
+<p>Web platform and digital product.</p>
+<span class="btn btn-primary btn-sm">
+  <i class="fa-solid fa-arrow-up-right-from-square"></i> Visit Site
+</span>
+</div>
+</a>
+<a href="https://rotalasystems.com" class="site-card" target="_blank" rel="noopener">
+<div class="site-preview">
+<img src="images/rotala-preview.jpg" alt="Rotala website preview">
+</div>
+<div class="site-card-content">
+<h3>Rotala</h3>
+<p>Technology solutions and systems.</p>
+<span class="btn btn-primary btn-sm">
+  <i class="fa-solid fa-arrow-up-right-from-square"></i> Visit Site
+</span>
+</div>
 </a>
 </div>
 
-:::
+---
+
+<span class="section-label">Featured Project</span>
+
+## AdPulse — Ad Fatigue Monitor
+
+<div class="adpulse-feature">
+<div class="adpulse-preview">
+<a href="https://adpulse-flame.vercel.app/" target="_blank" rel="noopener">
+<img src="images/adpulse-preview.jpg" alt="AdPulse dashboard preview">
+</a>
+</div>
+<div class="adpulse-info">
+
+A SaaS web app that tracks Meta ad creative fatigue and alerts marketers when ads are underperforming. Monitors ROAS decline, CTR drops, CPC increases, and frequency saturation to prevent wasted ad spend. Built with Next.js, Supabase, and Claude Code.
+
+<div style="margin-top: 1.5rem; display: flex; gap: 0.75rem; flex-wrap: wrap;">
+<a href="https://adpulse-flame.vercel.app/" class="btn btn-primary btn-sm" target="_blank">
+  <i class="fa-solid fa-arrow-up-right-from-square"></i> Try Live Demo
+</a>
+<a href="projects/project-2.qmd" class="btn btn-outline-dark btn-sm">
+  View Details →
+</a>
+</div>
+</div>
+</div>
 
 ---
 
@@ -52,7 +104,7 @@ A web application that helps users read 2–3× faster while maintaining compreh
 
 I believe great products start with understanding problems worth solving. I'm currently exploring challenges around:
 
-- **Reading efficiency** — How can we help people learn faster?
+- **Ad creative fatigue** — How can marketers catch declining ad performance before wasting spend?
 - **Idea validation** — How can entrepreneurs test ideas before building?
 - **Priority management** — How do we focus without burning out?
 

@@ -11,16 +11,16 @@ As an aspiring product manager and entrepreneur, I believe great products start 
 
 <span class="section-label">Problem 01</span>
 
-## Reading Speed & Comprehension
+## Ad Creative Fatigue
 
-**The Problem:** Students and professionals are expected to consume massive amounts of information, but traditional reading methods are slow and inefficient. The average person reads at about 200–300 words per minute—a rate that hasn't improved much since elementary school.
+**The Problem:** Founders and marketers can lose hundreds of dollars on low-performing Meta ads without realizing it. Checking the Meta Business Suite constantly is a hassle, and by the time someone gets around to looking, the damage is already done — ad spend has been wasted on creatives that stopped working days ago.
 
-**Why It Matters to Me:** As a college student with textbooks, research papers, and articles constantly piling up, I've felt the pain of not having enough time to read everything I need to. Time is our most limited resource, and better reading skills could unlock significantly more learning in less time.
+**Why It Matters to Me:** As someone who runs ads for my own brands, I've experienced this firsthand. I've also talked to other online marketers who say they lose hours and significant advertising dollars to this exact problem. There's no simple way to get alerted before fatigue sets in.
 
-**Worth Solving Because:** If we could help people read 2–3× faster with maintained comprehension, we'd essentially give them extra hours in their day. The compound effects of faster learning are enormous.
+**Worth Solving Because:** A tool that proactively monitors ad health and alerts you when performance starts declining would save marketers both time and money. Instead of manually checking dashboards, you'd know immediately which ads need to be refreshed — before the wasted spend piles up.
 
-<a href="projects/project-1.qmd" style="display: inline-flex; align-items: center; gap: 0.5rem; font-weight: 600;">
-  <i class="fa-solid fa-rocket"></i> See my solution: Readzy
+<a href="projects/project-2.qmd" style="display: inline-flex; align-items: center; gap: 0.5rem; font-weight: 600;">
+  <i class="fa-solid fa-rocket"></i> See my solution: AdPulse
 </a>
 
 ---

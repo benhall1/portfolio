@@ -1,7 +1,7 @@
 ---
-title: "Ad Fatigue Monitor"
-subtitle: "Meta Ad Performance Tracker"
-pagetitle: "Ad Fatigue Monitor — Meta Ad Tracker by Ben Hall"
+title: "AdPulse"
+subtitle: "Meta AdPulse"
+pagetitle: "AdPulse — Meta AdPulse by Ben Hall"
 date: "2026-02-19"
 categories: [SaaS, Next.js, Supabase, Claude Code]
 ---
@@ -11,7 +11,7 @@ A SaaS tool that monitors Meta (Facebook) ad creative fatigue in real time, scor
 </p>
 
 <div style="display: flex; gap: 0.75rem; flex-wrap: wrap; margin-bottom: 2rem;">
-<a class="btn btn-primary" href="https://meta-ad-tracker.vercel.app/" target="_blank" rel="noopener">
+<a class="btn btn-primary" href="https://adpulse-flame.vercel.app/" target="_blank" rel="noopener">
   <i class="fa-solid fa-arrow-up-right-from-square" style="margin-right: 0.5rem;"></i>
   Try Live Demo
 </a>
@@ -39,7 +39,7 @@ There's no simple, automated way for small to mid-size advertisers to get early 
 
 ## How It Works
 
-Ad Fatigue Monitor connects to Meta's ad platform and continuously tracks four key performance signals for every active ad:
+AdPulse connects to Meta's ad platform and continuously tracks four key performance signals for every active ad:
 
 - **ROAS Decline** (40% weight) — Are you getting less revenue per dollar spent?
 - **CTR Drop** (25% weight) — Are fewer people clicking your ads?
