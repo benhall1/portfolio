@@ -84,16 +84,16 @@ Outside of work, I'm interested in personal productivity, exploring new technolo
 <div class="resume-preview">
 <i class="fa-solid fa-file-pdf"></i>
 <div class="resume-preview-text">
-<strong>Ben_Hall_Resume.pdf</strong>
+<strong>BenHall_Resume.pdf</strong>
 <span>PDF Document</span>
 </div>
 </div>
 
-<a href="docs/Ben_Hall_Resume.pdf" class="btn btn-primary" target="_blank" download>
+<a href="docs/BenHall_Resume.pdf" class="btn btn-primary" target="_blank" download>
 <i class="fa-solid fa-download" style="margin-right: 0.5rem;"></i>
 Download Resume
 </a>
-<a href="docs/Ben_Hall_Resume.pdf" class="btn btn-outline-dark" target="_blank" style="margin-left: 0.5rem;">
+<a href="docs/BenHall_Resume.pdf" class="btn btn-outline-dark" target="_blank" style="margin-left: 0.5rem;">
 <i class="fa-solid fa-eye" style="margin-right: 0.5rem;"></i>
 View Online
 </a>
